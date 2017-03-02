@@ -2,9 +2,13 @@
 
 Multithreaded framework for building simple bots for the Telegram messenger.
 
+This is alpha stage software and should be considered highly volatile.
+
 ## Usage
 
 Currently only a small test implementation is included, a "secretary" that replies by citing messages, and sends a receipt to a different chat id (if specified).
+
+![test output](http://swarm-gateways.com/bzzr:/3789f19736792add013fd64bdc76a67fbc186cb9eb01c9906f634c6f658eb6ee?content_type=image/png)
 
 ## Configuration
 
@@ -23,6 +27,27 @@ The following dependencies are redistributed in the [/lib](lib)  directory:
 * [args4j](https://github.com/kohsuke/args4j) 
 	- (for test/TelegramSecretary only)
 
+## Version
+
+0.1.1
+
+## Roadmap
+
+* 0.1.2
+	- Create generic minimal handlers for all message types
+
+## Changelog
+
+* 0.1.1
+	- Added support for command line options
+
+* 0.1.0
+	- Initial framework
+
 ## License
 
-Distributed under the [MIT LICENSE](LICENSE)
+Released under the [MIT LICENSE](LICENSE)
+
+## Contact
+
+BM-NBXpv4oRf2BkNLJBZAm2muikBsm6EzvW
