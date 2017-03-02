@@ -8,7 +8,7 @@ This is alpha stage software and should be considered highly volatile.
 
 Currently only a small test implementation is included, a "secretary" that replies by citing messages, and sends a receipt to a different chat id (if specified).
 
-![test output](http://swarm-gateways.com/bzzr:/3789f19736792add013fd64bdc76a67fbc186cb9eb01c9906f634c6f658eb6ee?content_type=image/png)
+![test output](http://swarm-gateways.net/bzzr:/3789f19736792add013fd64bdc76a67fbc186cb9eb01c9906f634c6f658eb6ee?content_type=image/png)
 
 ## Configuration
 
