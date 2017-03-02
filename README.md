@@ -16,13 +16,13 @@ Configuration file is tab separated and should include the following data:
 
 ## Dependencies
 
-The following dependencies are redistributed in the [lib](/lib directory):
+The following dependencies are redistributed in the [/lib](lib)  directory:
 
-* [https://github.com/FasterXML](jackson json parser)
-	- [lib/LICENSE_jackson.txt](Apache License 2.0)
-* [https://github.com/kohsuke/args4j](args4j) 
+* [jackson json parser](https://github.com/FasterXML)
+	- [Apache License 2.0](lib/LICENSE_jackson.txt)
+* [args4j](https://github.com/kohsuke/args4j) 
 	- (for test/TelegramSecretary only)
 
 ## License
 
-Distributed under the [LICENSE](MIT LICENSE)
+Distributed under the [MIT LICENSE](LICENSE)
